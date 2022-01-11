@@ -23,6 +23,12 @@
       "text": "Learn Angular",
       "day": "May 8th at 9:30am",
       "reminder": true
+    },
+    {
+      "id": 5,
+      "text": "Laundry",
+      "day": "May 9th at 8:30am",
+      "reminder": false
     }
   ]
 }
